@@ -24,10 +24,6 @@ Telegram Channel: [@classcross](https://t.me/clashcrosschannel)
 确保您使用的v2board版本，修改lib/http/options.dart
 中websiteurl和appName，另外您可能需要了解Dart编程和Flutter跨平台框架以便进行二次开发
 
-# 狂飙转发
-
-[低至30CNY2TB](https://mer.kuangbiaoyun.xyz/)
-
 # Advisement
 
 Please exercise caution in compiling this program for countries with strict internet control, such
